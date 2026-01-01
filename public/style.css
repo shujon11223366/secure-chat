@@ -1,0 +1,6 @@
+body { font-family: sans-serif; background: #111; color: #eee; }
+#chat { max-width: 600px; margin: 50px auto; }
+#messages { list-style: none; padding: 0; }
+#messages li { margin: 5px 0; }
+input { width: 80%; padding: 10px; }
+button { padding: 10px; }
